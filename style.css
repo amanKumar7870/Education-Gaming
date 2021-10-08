@@ -1,0 +1,83 @@
+p{
+    text-shadow: 4px 4px 2px red;
+    font-size:20px;    
+    text-align: center;
+    font-weight: bold;
+}
+fieldset{
+    background-image:url(Star1_blue_128.png);
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: 200px;
+    border:solid;
+    border-width:thick  thin thin thick ;
+    border-color:aqua red  black;
+}
+ .thimg{
+     border:solid ;
+     border-width:3px 1px 1px 3px;
+     padding:10px;
+     border-color:blue pink pink blue;
+ }
+ table{
+     border-spacing: 5px 2px;
+     border-style:dotted solid dotted solid;
+     border-color:black black blueviolet blueviolet;
+ }
+
+.frame1{
+     background-image: url(Star1_blue_128.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     border-style:solid;
+     border-width:10px;
+     border-color:Yellow;
+ }
+
+.www{
+    vertical-align: super;
+}
+
+.divSec{
+    background-color:grey;
+    border-style:solid;
+    border-color:black;
+}
+
+.wqw{
+    color:white;
+    vertical-align: sub;
+}
+
+
+.b{
+    text-align:center;
+    text-shadow: 5px 5px 10px blue;
+}
+
+.font{
+    font-family:Castellar;
+    font-size:50px;
+    text-shadow:30px 30px 1px pink;
+}
+
+.bookhtml{
+    border-style:solid;
+    border-width:30px 5px 5px 30px;
+    border-color:red pink yellow orange;
+}
+
+.quiz{
+    border-style:solid;
+    border-width:3px  20px 20px 3px ;
+    border-color:skyblue blue blue skyblue;
+}
+
+.textspace{
+    word-spacing: 50px;
+    line-height: 50px;
+}
+
+.quizbor{
+    color:aqua;
+}
